@@ -1,0 +1,9 @@
+openai 
+langchain 
+chromadb 
+faiss-cpu 
+arxiv 
+fastapi 
+uvicorn 
+requests 
+streamlit
