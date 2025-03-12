@@ -1,6 +1,6 @@
 # 🤖 AI Research Assistant
 
-![AI Research Assistant](docs/logo.webp)
+![AI Research Assistant]
 
 🚀 **AI Research Assistant** is an intelligent tool designed to help researchers automate tasks, find relevant papers, summarize key insights, and generate structured reports efficiently.
 
