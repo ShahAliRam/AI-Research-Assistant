@@ -15,7 +15,7 @@ def fetch_papers(query, max_results=5):
         })
     return papers
 
-query = "Swin Transformer for Object Detection"
+query = "Proximal Policy Optimization"
 papers = fetch_papers(query)
 for paper in papers:
     print(paper["title"], paper["url"])

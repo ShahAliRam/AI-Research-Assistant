@@ -3,7 +3,7 @@ langchain
 chromadb 
 faiss-cpu 
 arxiv 
-fastapi 
 uvicorn 
 requests 
-streamlit
+mistralai
+flask
