@@ -105,4 +105,4 @@ We ❤️ contributions! Feel free to submit issues, pull requests, or suggest n
 ## 📬 Contact & Support
 
 📧 **Email:** shahramali147@gmail.com
-💼 **LinkedIn:** [Shahram Ali](https://linkedin.com/in/your-profile)  
+💼 **LinkedIn:** [Shahram Ali](https://www.linkedin.com/in/shahram-ali-8abbbb167/)  
